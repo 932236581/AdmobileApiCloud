@@ -32,3 +32,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AdmobileApiCloud"
 include ':app'
+include ':AdmobileApiCloud'

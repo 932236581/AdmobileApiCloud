@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import cn.admobiletop.adsuyi.ADSuyiSdk;
 
 public class MainActivity extends AppCompatActivity {
 
